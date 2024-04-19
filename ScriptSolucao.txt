@@ -1,3 +1,4 @@
+Scripts usados para solucionar os problemas
 -- 1 - Buscar o nome e ano dos filmes
 SELECT Nome, Ano
 FROM Filmes;
